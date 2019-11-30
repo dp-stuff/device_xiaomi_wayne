@@ -20,7 +20,7 @@ Front Camera | 20 MP
 
 ```
 #
-# Copyright (C) 2018 The LineageOS Project
+# Copyright (C) 2018 XIAOMI_SDM660 Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
