@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2018-2020 The EvolutionX Project
+# Copyright (C) 2020 RevengeOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_wayne.mk
+    $(LOCAL_DIR)/revengeos_wayne.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_wayne-user \
-    aosp_wayne-userdebug \
-    aosp_wayne-eng
+    revengeos_wayne-user \
+    revengeos_wayne-userdebug \
+    revengeos_wayne-eng
