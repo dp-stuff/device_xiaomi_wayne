@@ -21,11 +21,11 @@
 # definition file).
 #
 
-# inherit MI 6X lineage device config
+# inherit device config for DerpFest
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/carbon_wayne.mk
+    $(LOCAL_DIR)/derp_wayne.mk
 
 COMMON_LUNCH_CHOICES := \
-    carbon_wayne-eng \
-    carbon_wayne-userdebug \
-		carbon_wayne-user
+    derp_wayne-eng \
+    derp_wayne-userdebug \
+    derp_wayne-user
